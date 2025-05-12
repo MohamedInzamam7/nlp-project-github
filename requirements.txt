@@ -1,0 +1,7 @@
+streamlit
+easyocr
+spacy
+med7
+scikit-learn
+matplotlib
+pandas
